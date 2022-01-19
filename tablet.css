@@ -1,0 +1,51 @@
+.heading{  
+    top:15%; 
+}
+
+ .desktopnav{
+     display:none;
+ }
+
+.hamburger{
+    display:block;
+}
+
+
+.toggle .line1{
+    transform : rotate(-45deg) translate(-10px,8px)
+ }
+ 
+ .toggle .line2{
+     opacity:0;
+ }
+ 
+ .toggle .line3{
+    transform: rotate(45deg) translate(-3px,-2px);
+ }
+
+ .looking-for {
+     width:100%;
+ }
+
+#insurance{
+  width:95%
+
+} 
+ .insurancetypes-card {
+    width: 48%; 
+}
+
+
+#why-choose-us {  
+    width:100%;
+     display:block;
+     padding-top:20px;
+     padding-bottom:0
+}
+ .why-choose-us-left {
+    display:none
+}
+
+.faq-right{
+    flex:1.5
+}

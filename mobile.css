@@ -1,0 +1,37 @@
+.heading{  
+    top:6%;
+    font-size: 3.2vw; 
+    left:28%
+}
+
+#hero{
+    padding-top:59px
+}
+.insurancetypes-card {
+     width: 100%; 
+     padding-bottom: 20px;
+     margin-bottom: 30px;
+ }
+
+#insurance {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#faq h2 {
+    padding-bottom:15px
+}
+
+.faq{
+    width:100%;
+    display:block;
+    padding-top:1rem
+}
+
+.faq-right{
+    padding:0 20px
+}
+
+.faq-left{
+    margin-bottom:2rem
+}
